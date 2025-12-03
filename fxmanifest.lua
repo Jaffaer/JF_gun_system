@@ -5,7 +5,7 @@ lua54 'yes'
 name 'jf_jamming'
 author 'JF'
 version '1.0.0'
-description 'Weapon system (Weapon jamming based on durability) / (Weapon inspection) / (Weapon Clutching) (FLASHLIGHT REALITY) / (Drive By)'
+description '(Weapon jamming based on durability) / (Weapon inspection) / (Weapon Clutching) (FLASHLIGHT) / (Drive By)'
 
 dependencies { 
     'ox_lib', 
@@ -52,4 +52,5 @@ data_file 'ANIM_DICT' 'stream/94glockypocket@animation.ycd'
 data_file 'ANIM_DICT' 'stream/handspocket3@94glocky.ycd'
 data_file 'ANIM_DICT' 'stream/onehands@from94.ycd'
 data_file 'CLIP_SETS_FILE' 'data/clip_set.xml'
+
 data_file 'VEHICLE_LAYOUTS_FILE' 'data/vehiclelayouts.meta'
